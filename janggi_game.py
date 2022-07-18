@@ -1,5 +1,4 @@
 # Author: Sean Tyler
-# Date: late
 # Description:  A Janggi game (Korean chess).  Work in progress.
 
 class Color:
