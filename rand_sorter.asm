@@ -1,9 +1,5 @@
-TITLE Random Number Generator, Sorter, Counter     (proj5_tylerse.asm)
+TITLE Random Number Generator, Sorter, Counter
 ; Author: Sean Tyler
-; Last Modified: 5/23/2021
-; OSU email address: tylerse@oregonstate.edu
-; Course number/section: 271   CS271 Section: 400
-; Project Number: 5      Due Date: 5/23/2021
 ; Description:  A program that generates and sorts an array of random numbers,
 ;calculates the median number and occurrences of each 
 number, and displays
